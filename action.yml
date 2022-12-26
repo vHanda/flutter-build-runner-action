@@ -1,4 +1,4 @@
-name: 'Dart Build Runner'
+name: 'Flutter Build Runner'
 author: 'Vishesh Handa <me@vhanda.dev>'
 description: 'Run the Flutter Build Runner'
 branding:
